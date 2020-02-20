@@ -1,0 +1,47 @@
+﻿MSTI_VAR,MSTI Variables,COU,Country,YEAR,Year,Unit Code,Unit,PowerCode Code,PowerCode,Reference Period Code,Reference Period,Value,Flag Codes,Flags
+G_XGDP,GERD as a percentage of GDP,CHL,Chile,2015,2015,PC,Percentage,0,Units,,,0.380727106,,
+G_XGDP,GERD as a percentage of GDP,ROU,Romania,2015,2015,PC,Percentage,0,Units,,,0.48793047,,
+G_XGDP,GERD as a percentage of GDP,MEX,Mexico,2015,2015,PC,Percentage,0,Units,,,0.523765847,e; p,Estimated value; Provisional value
+G_XGDP,GERD as a percentage of GDP,ARG,Argentina,2015,2015,PC,Percentage,0,Units,,,0.618540979,,
+G_XGDP,GERD as a percentage of GDP,LVA,Latvia,2015,2015,PC,Percentage,0,Units,,,0.625814031,,
+G_XGDP,GERD as a percentage of GDP,ZAF,South Africa,2015,2015,PC,Percentage,0,Units,,,0.798459349,,
+G_XGDP,GERD as a percentage of GDP,TUR,Turkey,2015,2015,PC,Percentage,0,Units,,,0.881503008,,
+G_XGDP,GERD as a percentage of GDP,GRC,Greece,2015,2015,PC,Percentage,0,Units,,,0.961207155,,
+G_XGDP,GERD as a percentage of GDP,POL,Poland,2015,2015,PC,Percentage,0,Units,,,1.003245145,,
+G_XGDP,GERD as a percentage of GDP,LTU,Lithuania,2015,2015,PC,Percentage,0,Units,,,1.040954681,,
+G_XGDP,GERD as a percentage of GDP,RUS,Russia,2015,2015,PC,Percentage,0,Units,,,1.098931065,,
+G_XGDP,GERD as a percentage of GDP,SVK,Slovak Republic,2015,2015,PC,Percentage,0,Units,,,1.171711649,,
+G_XGDP,GERD as a percentage of GDP,IRL,Ireland,2015,2015,PC,Percentage,0,Units,,,1.184324182,e,Estimated value
+G_XGDP,GERD as a percentage of GDP,ESP,Spain,2015,2015,PC,Percentage,0,Units,,,1.218315428,,
+G_XGDP,GERD as a percentage of GDP,NZL,New Zealand,2015,2015,PC,Percentage,0,Units,,,1.234101499,,
+G_XGDP,GERD as a percentage of GDP,PRT,Portugal,2015,2015,PC,Percentage,0,Units,,,1.242634819,,
+G_XGDP,GERD as a percentage of GDP,LUX,Luxembourg,2015,2015,PC,Percentage,0,Units,,,1.284053195,,
+G_XGDP,GERD as a percentage of GDP,ITA,Italy,2015,2015,PC,Percentage,0,Units,,,1.341153429,,
+G_XGDP,GERD as a percentage of GDP,HUN,Hungary,2015,2015,PC,Percentage,0,Units,,,1.362445771,,
+G_XGDP,GERD as a percentage of GDP,EST,Estonia,2015,2015,PC,Percentage,0,Units,,,1.466298039,,
+G_XGDP,GERD as a percentage of GDP,GBR,United Kingdom,2015,2015,PC,Percentage,0,Units,,,1.668179629,,
+G_XGDP,GERD as a percentage of GDP,CAN,Canada,2015,2015,PC,Percentage,0,Units,,,1.693244556,,
+G_XGDP,GERD as a percentage of GDP,AUS,Australia,2015,2015,PC,Percentage,0,Units,,,1.875612466,e,Estimated value
+G_XGDP,GERD as a percentage of GDP,CZE,Czech Republic,2015,2015,PC,Percentage,0,Units,,,1.929233604,,
+G_XGDP,GERD as a percentage of GDP,NOR,Norway,2015,2015,PC,Percentage,0,Units,,,1.930948047,,
+G_XGDP,GERD as a percentage of GDP,EU28,European Union (28 countries),2015,2015,PC,Percentage,0,Units,,,1.955835042,e,Estimated value
+G_XGDP,GERD as a percentage of GDP,NLD,Netherlands,2015,2015,PC,Percentage,0,Units,,,1.984873799,,
+G_XGDP,GERD as a percentage of GDP,CHN,China (People's Republic of),2015,2015,PC,Percentage,0,Units,,,2.065602226,,
+G_XGDP,GERD as a percentage of GDP,EU15,European Union (15 countries),2015,2015,PC,Percentage,0,Units,,,2.093017713,e,Estimated value
+G_XGDP,GERD as a percentage of GDP,SGP,Singapore,2015,2015,PC,Percentage,0,Units,,,2.194408687,,
+G_XGDP,GERD as a percentage of GDP,SVN,Slovenia,2015,2015,PC,Percentage,0,Units,,,2.195042684,,
+G_XGDP,GERD as a percentage of GDP,ISL,Iceland,2015,2015,PC,Percentage,0,Units,,,2.197460611,,
+G_XGDP,GERD as a percentage of GDP,FRA,France,2015,2015,PC,Percentage,0,Units,,,2.267030775,,
+G_XGDP,GERD as a percentage of GDP,OECD,OECD - Total,2015,2015,PC,Percentage,0,Units,,,2.343971235,e,Estimated value
+G_XGDP,GERD as a percentage of GDP,BEL,Belgium,2015,2015,PC,Percentage,0,Units,,,2.461234139,,
+G_XGDP,GERD as a percentage of GDP,USA,United States,2015,2015,PC,Percentage,0,Units,,,2.717437451,d,Definition differs
+G_XGDP,GERD as a percentage of GDP,FIN,Finland,2015,2015,PC,Percentage,0,Units,,,2.891565691,,
+G_XGDP,GERD as a percentage of GDP,DEU,Germany,2015,2015,PC,Percentage,0,Units,,,2.911967719,,
+G_XGDP,GERD as a percentage of GDP,AUT,Austria,2015,2015,PC,Percentage,0,Units,,,3.049785465,,
+G_XGDP,GERD as a percentage of GDP,DNK,Denmark,2015,2015,PC,Percentage,0,Units,,,3.054966813,,
+G_XGDP,GERD as a percentage of GDP,TWN,Chinese Taipei,2015,2015,PC,Percentage,0,Units,,,3.059489511,,
+G_XGDP,GERD as a percentage of GDP,SWE,Sweden,2015,2015,PC,Percentage,0,Units,,,3.264181754,v,The sum of the breakdown does not add to the total
+G_XGDP,GERD as a percentage of GDP,JPN,Japan,2015,2015,PC,Percentage,0,Units,,,3.281649206,,
+G_XGDP,GERD as a percentage of GDP,CHE,Switzerland,2015,2015,PC,Percentage,0,Units,,,3.371602219,,
+G_XGDP,GERD as a percentage of GDP,KOR,Korea,2015,2015,PC,Percentage,0,Units,,,4.217017062,,
+G_XGDP,GERD as a percentage of GDP,ISR,Israel,2015,2015,PC,Percentage,0,Units,,,4.257612488,d,Definition differs
